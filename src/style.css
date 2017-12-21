@@ -1,0 +1,57 @@
+.header {
+  text-align: center;
+}
+body {
+  background-color: black;
+  color: white;
+  font-family: Lobster;
+}
+#root {
+  text-align: center;
+}
+.footer {
+  text-align: center;
+}
+.nav {
+  font-size: 2em;
+  padding-left: 0.01em;
+  padding-right:0.01em;
+}
+.tempa {
+  margin-top: 0.3em;
+}
+.pressure {
+  display: inline;
+  margin-right: 2em;
+}
+.humidity {
+  display: inline;
+  margin-left: 2em;
+}
+.header {
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+.descripton {
+  margin-top:0.3em;
+  margin-bottom:0.3em;
+}
+.base {
+  margin-left: 47em;
+  margin-right: 1em;
+}
+.myform {
+  margin-left: 42em;
+}
+.bats {
+  margin-top:0.7em;
+}
+.descripton {
+  margin-top:1em;
+  margin-bottom: 1em;
+
+}
+.presure {
+  margin-top:1em;
+  margin-bottom: 1em;
+}
